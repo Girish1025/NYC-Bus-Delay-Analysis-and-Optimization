@@ -1,0 +1,31 @@
+reason,route_number,avg_delay
+Accident,L015,180.0
+Accident,X879,139.75
+Accident,X710,121.0
+Delayed by School,Q9851,155.0
+Delayed by School,K463,120.0
+Delayed by School,K9031,120.0
+Flat Tire,K1713,450.0
+Flat Tire,M015,120.0
+Flat Tire,M033,120.0
+Heavy Traffic,R067,270.0
+Heavy Traffic,R065,180.0
+Heavy Traffic,M9094,120.0
+Late return from Field Trip,R071,130.0
+Late return from Field Trip,K2154,120.0
+Late return from Field Trip,Q9338,120.0
+Mechanical Problem,M083,260.0
+Mechanical Problem,K2149,210.0
+Mechanical Problem,J720,120.0
+Other,HM#11,120.0
+Other,L903,120.0
+Other,M567,120.0
+Problem Run,S646,588.0
+Problem Run,K890,120.0
+Problem Run,M263,100.0
+Weather Conditions,L017,180.0
+Weather Conditions,L666,161.66666666666666
+Weather Conditions,L922,150.0
+Won`t Start,Q983,330.0
+Won`t Start,M029,160.0
+Won`t Start,K1960,120.0

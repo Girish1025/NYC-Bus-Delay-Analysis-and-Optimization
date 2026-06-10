@@ -1,0 +1,16 @@
+service_area,route_number,avg_delay
+Bronx,S546,401.0
+Bronx,L012,120.0
+Bronx,SQ509,82.5
+Brooklyn,K2149,116.25
+Brooklyn,AM706,90.0
+Brooklyn,HM1,90.0
+Manhattan,Q3324,210.0
+Manhattan,S700,120.0
+Manhattan,W976,120.0
+Queens,M636,120.0
+Queens,Q9505,120.0
+Queens,S978,120.0
+Staten Island,R067,270.0
+Staten Island,R065,180.0
+Staten Island,R593,86.77777777777777

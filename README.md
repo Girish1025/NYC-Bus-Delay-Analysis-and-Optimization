@@ -70,6 +70,7 @@ NYC-Bus-Delay-Analysis-and-Optimization/
 │   ├── data_loader.py
 │   ├── data_cleaning.py
 │   ├── feature_engineering.py
+|   ├── feature_selection.py
 │   ├── eda.py
 │   ├── preprocessing.py
 │   ├── model_training.py
@@ -84,6 +85,22 @@ NYC-Bus-Delay-Analysis-and-Optimization/
 └── .gitignore
 ```
 
+## Project Structure
+
+```text
+main.py                         Workflow orchestration
+src/data_loader.py              Dataset loading
+src/data_cleaning.py            Imputation, validation, and cleaning
+src/feature_engineering.py      Route, time, notification, and target features
+src/eda.py                      Notebook EDA tables and plots
+src/feature_selection.py        Correlation, Cramér's V, IQR, and VIF
+src/preprocessing.py            Notebook feature selection and target encoding
+src/model_training.py           Regression and classification models
+src/model_evaluation.py         Metrics and model interpretation
+src/hyperparameter_tuning.py    Lasso, Random Forest, and XGBoost tuning
+src/optimization_insights.py    Operational prioritization tables
+tests/test_workflow.py           Focused workflow tests
+```
 ## Author
 
 **Girish S Chandrappa**

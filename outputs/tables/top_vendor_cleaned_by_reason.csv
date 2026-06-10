@@ -1,0 +1,31 @@
+reason,vendor_cleaned,avg_delay
+Accident,boyton bus inc,100.0
+Accident,b f skilled inc scho,76.25
+Accident,gotham transportation co,70.0
+Delayed by School,united fleet,62.0
+Delayed by School,lorinda enterprises ltd,61.0
+Delayed by School,atlantic,60.0
+Flat Tire,happy child trans llc b2,66.8
+Flat Tire,mini bus,65.0
+Flat Tire,brighton bus service,60.0
+Heavy Traffic,jodi,65.0
+Heavy Traffic,tom tom,62.0
+Heavy Traffic,jofaz transportation,61.333333333333336
+Late return from Field Trip,staten island bus company,78.75
+Late return from Field Trip,brighton bus service,62.0
+Late return from Field Trip,tufaro transit,62.0
+Mechanical Problem,r c transit inc,105.0
+Mechanical Problem,happy child trans llc b2,70.84
+Mechanical Problem,amboy ralph ave,60.0
+Other,brothers transportation c,108.75
+Other,bobbys bus,62.0
+Other,selby transportation corp,61.0
+Problem Run,able bus,120.0
+Problem Run,gotham,65.0
+Problem Run,l m bus corp b2321,60.666666666666664
+Weather Conditions,b f skilled inc scho,83.33333333333333
+Weather Conditions,gotham,65.0
+Weather Conditions,thomas buses inc b2192,60.5
+Won`t Start,happy child trans llc b2,160.0
+Won`t Start,r c transit,90.0
+Won`t Start,boyton bus inc,80.0

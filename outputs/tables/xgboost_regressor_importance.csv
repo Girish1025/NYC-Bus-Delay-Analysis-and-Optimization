@@ -1,0 +1,15 @@
+feature,importance,abs_importance
+vendor_cleaned,0.3170577,0.3170577
+service_area,0.0941066,0.0941066
+route_prefix_group,0.08854048,0.08854048
+have_you_alerted_opt,0.08398763,0.08398763
+reason,0.057822403,0.057822403
+has_contractor_notified_parents,0.053844564,0.053844564
+number_of_students,0.053116165,0.053116165
+report_delay_minutes,0.044881932,0.044881932
+has_contractor_notified_schools,0.04250608,0.04250608
+route_number_group,0.0411651,0.0411651
+time_block,0.040706024,0.040706024
+num_schools,0.04068065,0.04068065
+run_type,0.03193653,0.03193653
+weekday,0.00964823,0.00964823

@@ -1,0 +1,31 @@
+run_type,vendor_cleaned,avg_delay
+General Ed AM Run,amboy ralph ave,60.0
+General Ed AM Run,opt,60.0
+General Ed AM Run,consolidated,50.0
+General Ed Field Trip,jofaz transportation,62.0
+General Ed Field Trip,tom tom,62.0
+General Ed Field Trip,con,60.0
+General Ed PM Run,leesel transportation corp b2192,61.0
+General Ed PM Run,united tom tom transporta,52.09090909090909
+General Ed PM Run,bobbys bus,46.0
+Pre-K/EI,pride transportation sch,61.0
+Pre-K/EI,thomas buses inc b2321,61.0
+Pre-K/EI,carol bus transportation,58.333333333333336
+Project Read AM Run,l m bus corp a,61.0
+Project Read AM Run,lorinda ent ltd,60.0
+Project Read AM Run,montauk student trans inc b2321,53.5
+Project Read Field Trip,g v c ltd b2192,46.0
+Project Read Field Trip,pioneer transportation co,31.0
+Project Read Field Trip,boro transit inc,16.0
+Project Read PM Run,atlantic queens bus corp,70.0
+Project Read PM Run,dak transportation corp,65.0
+Project Read PM Run,twenty first av transp b,61.666666666666664
+Special Ed AM Run,jodi,67.5
+Special Ed AM Run,kids bus,62.0
+Special Ed AM Run,amby shore pkwy,60.0
+Special Ed Field Trip,ocean avenue,120.0
+Special Ed Field Trip,atlantic,60.0
+Special Ed Field Trip,con,60.0
+Special Ed PM Run,little lisa bus co,180.0
+Special Ed PM Run,b f skilled inc school age,120.0
+Special Ed PM Run,r c transit inc,105.0

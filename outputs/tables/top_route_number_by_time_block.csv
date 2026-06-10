@@ -1,0 +1,19 @@
+time_block,route_number,avg_delay
+Afternoon Peak (14-16),R555,420.0
+Afternoon Peak (14-16),R065,240.0
+Afternoon Peak (14-16),M457,120.0
+Early Morning (5-7),J727,120.0
+Early Morning (5-7),P289,120.0
+Early Morning (5-7),S704,120.0
+Evening (16-19),M263,185.0
+Evening (16-19),L001,180.0
+Evening (16-19),L015,180.0
+Midday (9-14),R067,270.0
+Midday (9-14),R593,270.0
+Midday (9-14),R061,189.0
+Morning Peak (7-9),R065,240.0
+Morning Peak (7-9),HM1,120.0
+Morning Peak (7-9),S700,120.0
+Off-Hours,S529,405.0
+Off-Hours,M854,235.0
+Off-Hours,L632,121.0

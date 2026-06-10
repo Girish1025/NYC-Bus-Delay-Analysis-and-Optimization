@@ -1,0 +1,11 @@
+route_number,time_block,incident_count,avg_delay
+R011,Midday (9-14),7,174.85714285714286
+K1713,Early Morning (5-7),5,119.6
+L011,Midday (9-14),7,100.14285714285714
+K231,Afternoon Peak (14-16),5,82.4
+Q9851,Afternoon Peak (14-16),5,77.4
+S741,Morning Peak (7-9),14,75.0
+K2163,Morning Peak (7-9),12,74.75
+M645,Midday (9-14),6,72.83333333333333
+L954,Morning Peak (7-9),30,69.33333333333333
+S509,Morning Peak (7-9),13,69.23076923076923

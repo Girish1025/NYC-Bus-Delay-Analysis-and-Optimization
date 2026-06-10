@@ -1,0 +1,31 @@
+run_type,route_number,avg_delay
+General Ed AM Run,M9094,120.0
+General Ed AM Run,M9329,120.0
+General Ed AM Run,K2149,116.25
+General Ed Field Trip,K2154,120.0
+General Ed Field Trip,M9167,120.0
+General Ed Field Trip,Q9543,120.0
+General Ed PM Run,Q9505,120.0
+General Ed PM Run,Q9735,120.0
+General Ed PM Run,M1042,110.0
+Pre-K/EI,AM706,90.0
+Pre-K/EI,HM1,90.0
+Pre-K/EI,B0909Z,75.0
+Project Read AM Run,K431,61.0
+Project Read AM Run,K809,61.0
+Project Read AM Run,K810,61.0
+Project Read Field Trip,X607,46.0
+Project Read Field Trip,X583,31.0
+Project Read Field Trip,K433,16.0
+Project Read PM Run,K593,120.0
+Project Read PM Run,M851,90.0
+Project Read PM Run,M615,65.0
+Special Ed AM Run,R067,270.0
+Special Ed AM Run,R065,165.0
+Special Ed AM Run,W976,120.0
+Special Ed Field Trip,K200,120.0
+Special Ed Field Trip,S638,120.0
+Special Ed Field Trip,X188,120.0
+Special Ed PM Run,R065,240.0
+Special Ed PM Run,R071,130.0
+Special Ed PM Run,J720,120.0
